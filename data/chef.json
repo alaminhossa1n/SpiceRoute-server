@@ -1,0 +1,416 @@
+[
+  {
+    "id": "1",
+    "chefName": "Ritu Dalmia",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 150,
+    "likes": 4500,
+    "chefPicture": "https://i.ibb.co/xFVtCpY/c-1.jpg",
+    "description": "Ritu Dalmia is an Indian celebrity chef and entrepreneur. She is the owner of Diva Restaurants, which is a chain of Italian restaurants in India. She has also authored a cookbook called 'Travelling Diva: Recipes from Around the World', which features recipes from her travels across the globe.",
+    "recipes": [
+      {
+        "recipeName": "Lamb Rogan Josh",
+        "ingredients": [
+          "lamb",
+          "yogurt",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "cumin",
+          "coriander",
+          "cardamom",
+          "cinnamon",
+          "bay leaves",
+          "red chili powder",
+          "garam masala",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the lamb in yogurt, ginger, garlic and some spices for 2 hours. Heat oil in a pan and fry onions until golden brown. Add tomato and spices and cook until the oil separates. Add the marinated lamb and cook for 20-25 minutes. Serve hot with naan or rice.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Pani Puri",
+        "ingredients": [
+          "semolina",
+          "flour",
+          "potato",
+          "chickpeas",
+          "tamarind",
+          "mint",
+          "coriander",
+          "cumin",
+          "chaat masala",
+          "red chili powder",
+          "salt"
+        ],
+        "cookingMethod": "Mix semolina, flour and salt in a bowl. Knead the dough and let it rest for 30 minutes. Make small balls and roll them into small puris. Fry them in hot oil until crispy. Fill the puris with mashed potato and chickpeas. Mix tamarind and mint-coriander chutney and add some spices. Add this mixture to the puris and serve immediately.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Butter Chicken",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "ginger-garlic paste",
+          "tomato",
+          "butter",
+          "cream",
+          "cumin",
+          "coriander",
+          "garam masala",
+          "red chili powder",
+          "sugar",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the chicken in yogurt, ginger-garlic paste and some spices for 2 hours. Grill the chicken until cooked. In a separate pan, heat butter and fry ginger-garlic paste. Add tomato puree and spices and cook for 10-12 minutes. Add the grilled chicken and cook for 5 minutes. Add cream and cook for another 2 minutes. Serve hot with naan or rice.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "chefName": "Vikas Khanna",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 6500,
+    "chefPicture": "https://i.ibb.co/ZNShrbP/c-2.jpg",
+    "description": "Vikas Khanna is an Indian chef, restaurateur, cookbook writer, filmmaker and humanitarian. He is one of the judges of MasterChef India, and the host of the TV show Twist of Taste on Fox Traveller. Khanna has written over 35 cookbooks and has also appeared as a judge on the Australian version of the show MasterChef. In 2011, he was awarded the prestigious Michelin Star for his restaurant Junoon in New York City.",
+    "recipes": [
+      {
+        "recipeName": "Lamb Rogan Josh",
+        "ingredients": [
+          "lamb",
+          "yogurt",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "cumin",
+          "coriander",
+          "cardamom",
+          "cinnamon",
+          "bay leaves",
+          "red chili powder",
+          "garam masala",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the lamb in yogurt, ginger, garlic and some spices for 2 hours. Heat oil in a pan and fry onions until golden brown. Add tomato and spices and cook until the oil separates. Add the marinated lamb and cook for 20-25 minutes. Serve hot with naan or rice.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Pani Puri",
+        "ingredients": [
+          "semolina",
+          "flour",
+          "potato",
+          "chickpeas",
+          "tamarind",
+          "mint",
+          "coriander",
+          "cumin",
+          "chaat masala",
+          "red chili powder",
+          "salt"
+        ],
+        "cookingMethod": "Mix semolina, flour and salt in a bowl. Knead the dough and let it rest for 30 minutes. Make small balls and roll them into small puris. Fry them in hot oil until crispy. Fill the puris with mashed potato and chickpeas. Mix tamarind and mint-coriander chutney and add some spices. Add this mixture to the puris and serve immediately.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Butter Chicken",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "ginger-garlic paste",
+          "tomato",
+          "butter",
+          "cream",
+          "cumin",
+          "coriander",
+          "garam masala",
+          "red chili powder",
+          "sugar",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the chicken in yogurt, ginger-garlic paste and some spices for 2 hours. Grill the chicken until cooked. In a separate pan, heat butter and fry ginger-garlic paste. Add tomato puree and spices and cook for 10-12 minutes. Add the grilled chicken and cook for 5 minutes. Add cream and cook for another 2 minutes. Serve hot with naan or rice.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "chefName": "Sanjeev Kapoor",
+    "yearsOfExperience": 17,
+    "numberOfRecipes": 120,
+    "likes": 5044,
+    "chefPicture": "https://i.ibb.co/ftYVp72/c-3.jpg",
+    "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. Kapoor is widely known for his cooking show Khana Khazana, which is the longest-running Indian television show of its kind. He has authored more than 150 cookbooks in multiple languages, including Hindi, Marathi, and English. Kapoor has also been awarded the Padma Shri, one of India's highest civilian awards, for his contributions to the culinary arts.",
+    "recipes": [
+      {
+        "recipeName": "Lamb Rogan Josh",
+        "ingredients": [
+          "lamb",
+          "yogurt",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "cumin",
+          "coriander",
+          "cardamom",
+          "cinnamon",
+          "bay leaves",
+          "red chili powder",
+          "garam masala",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the lamb in yogurt, ginger, garlic and some spices for 2 hours. Heat oil in a pan and fry onions until golden brown. Add tomato and spices and cook until the oil separates. Add the marinated lamb and cook for 20-25 minutes. Serve hot with naan or rice.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Pani Puri",
+        "ingredients": [
+          "semolina",
+          "flour",
+          "potato",
+          "chickpeas",
+          "tamarind",
+          "mint",
+          "coriander",
+          "cumin",
+          "chaat masala",
+          "red chili powder",
+          "salt"
+        ],
+        "cookingMethod": "Mix semolina, flour and salt in a bowl. Knead the dough and let it rest for 30 minutes. Make small balls and roll them into small puris. Fry them in hot oil until crispy. Fill the puris with mashed potato and chickpeas. Mix tamarind and mint-coriander chutney and add some spices. Add this mixture to the puris and serve immediately.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Butter Chicken",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "ginger-garlic paste",
+          "tomato",
+          "butter",
+          "cream",
+          "cumin",
+          "coriander",
+          "garam masala",
+          "red chili powder",
+          "sugar",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the chicken in yogurt, ginger-garlic paste and some spices for 2 hours. Grill the chicken until cooked. In a separate pan, heat butter and fry ginger-garlic paste. Add tomato puree and spices and cook for 10-12 minutes. Add the grilled chicken and cook for 5 minutes. Add cream and cook for another 2 minutes. Serve hot with naan or rice.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "chefName": "Tarla Dalal",
+    "yearsOfExperience": 11,
+    "numberOfRecipes": 110,
+    "likes": 3530,
+    "chefPicture": "https://i.ibb.co/BzhprQR/c-4.jpg",
+    "description": "Tarla Dalal was an Indian chef, cookbook author, and television personality. She authored more than 100 cookbooks in English, Hindi, and Gujarati, which have sold millions of copies worldwide. Dalal was also the host of the cooking show Cook It Up With Tarla Dalal on Sony TV. She was awarded the Padma Shri, one of India's highest civilian awards, for her contributions to the culinary arts.",
+    "recipes": [
+      {
+        "recipeName": "Lamb Rogan Josh",
+        "ingredients": [
+          "lamb",
+          "yogurt",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "cumin",
+          "coriander",
+          "cardamom",
+          "cinnamon",
+          "bay leaves",
+          "red chili powder",
+          "garam masala",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the lamb in yogurt, ginger, garlic and some spices for 2 hours. Heat oil in a pan and fry onions until golden brown. Add tomato and spices and cook until the oil separates. Add the marinated lamb and cook for 20-25 minutes. Serve hot with naan or rice.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Pani Puri",
+        "ingredients": [
+          "semolina",
+          "flour",
+          "potato",
+          "chickpeas",
+          "tamarind",
+          "mint",
+          "coriander",
+          "cumin",
+          "chaat masala",
+          "red chili powder",
+          "salt"
+        ],
+        "cookingMethod": "Mix semolina, flour and salt in a bowl. Knead the dough and let it rest for 30 minutes. Make small balls and roll them into small puris. Fry them in hot oil until crispy. Fill the puris with mashed potato and chickpeas. Mix tamarind and mint-coriander chutney and add some spices. Add this mixture to the puris and serve immediately.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Butter Chicken",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "ginger-garlic paste",
+          "tomato",
+          "butter",
+          "cream",
+          "cumin",
+          "coriander",
+          "garam masala",
+          "red chili powder",
+          "sugar",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the chicken in yogurt, ginger-garlic paste and some spices for 2 hours. Grill the chicken until cooked. In a separate pan, heat butter and fry ginger-garlic paste. Add tomato puree and spices and cook for 10-12 minutes. Add the grilled chicken and cook for 5 minutes. Add cream and cook for another 2 minutes. Serve hot with naan or rice.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "chefName": "Atul Kochhar",
+    "yearsOfExperience": 13,
+    "numberOfRecipes": 105,
+    "likes": 5500,
+    "chefPicture": "https://i.ibb.co/z2xyPtD/c-5.jpg",
+    "description": "Atul Kochhar is a Michelin-starred Indian chef who has worked in some of the world's finest restaurants. He has two restaurants in London, Benares and Kanishka, and has previously worked as the head chef at the prestigious Rang Mahal restaurant in Dubai. Kochhar is known for his innovative and modern take on Indian cuisine, and has been awarded two Michelin stars for his work.",
+    "recipes": [
+      {
+        "recipeName": "Lamb Rogan Josh",
+        "ingredients": [
+          "lamb",
+          "yogurt",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "cumin",
+          "coriander",
+          "cardamom",
+          "cinnamon",
+          "bay leaves",
+          "red chili powder",
+          "garam masala",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the lamb in yogurt, ginger, garlic and some spices for 2 hours. Heat oil in a pan and fry onions until golden brown. Add tomato and spices and cook until the oil separates. Add the marinated lamb and cook for 20-25 minutes. Serve hot with naan or rice.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Pani Puri",
+        "ingredients": [
+          "semolina",
+          "flour",
+          "potato",
+          "chickpeas",
+          "tamarind",
+          "mint",
+          "coriander",
+          "cumin",
+          "chaat masala",
+          "red chili powder",
+          "salt"
+        ],
+        "cookingMethod": "Mix semolina, flour and salt in a bowl. Knead the dough and let it rest for 30 minutes. Make small balls and roll them into small puris. Fry them in hot oil until crispy. Fill the puris with mashed potato and chickpeas. Mix tamarind and mint-coriander chutney and add some spices. Add this mixture to the puris and serve immediately.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Butter Chicken",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "ginger-garlic paste",
+          "tomato",
+          "butter",
+          "cream",
+          "cumin",
+          "coriander",
+          "garam masala",
+          "red chili powder",
+          "sugar",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the chicken in yogurt, ginger-garlic paste and some spices for 2 hours. Grill the chicken until cooked. In a separate pan, heat butter and fry ginger-garlic paste. Add tomato puree and spices and cook for 10-12 minutes. Add the grilled chicken and cook for 5 minutes. Add cream and cook for another 2 minutes. Serve hot with naan or rice.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "chefName": "Ranveer Brar",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 150,
+    "likes": 4500,
+    "chefPicture": "https://i.ibb.co/YXhPgX0/c-6.jpg",
+    "description": "Ranveer Brar is an Indian celebrity chef, restaurateur, and television personality. He is the host of several popular cooking shows, including Breakfast Xpress, Snack Attack, and Homemade. Brar is known for his innovative and creative approach to Indian cuisine, and has been featured in several magazines and newspapers for his contributions to the culinary world.",
+    "recipes": [
+      {
+        "recipeName": "Lamb Rogan Josh",
+        "ingredients": [
+          "lamb",
+          "yogurt",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomato",
+          "cumin",
+          "coriander",
+          "cardamom",
+          "cinnamon",
+          "bay leaves",
+          "red chili powder",
+          "garam masala",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the lamb in yogurt, ginger, garlic and some spices for 2 hours. Heat oil in a pan and fry onions until golden brown. Add tomato and spices and cook until the oil separates. Add the marinated lamb and cook for 20-25 minutes. Serve hot with naan or rice.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Pani Puri",
+        "ingredients": [
+          "semolina",
+          "flour",
+          "potato",
+          "chickpeas",
+          "tamarind",
+          "mint",
+          "coriander",
+          "cumin",
+          "chaat masala",
+          "red chili powder",
+          "salt"
+        ],
+        "cookingMethod": "Mix semolina, flour and salt in a bowl. Knead the dough and let it rest for 30 minutes. Make small balls and roll them into small puris. Fry them in hot oil until crispy. Fill the puris with mashed potato and chickpeas. Mix tamarind and mint-coriander chutney and add some spices. Add this mixture to the puris and serve immediately.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Butter Chicken",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "ginger-garlic paste",
+          "tomato",
+          "butter",
+          "cream",
+          "cumin",
+          "coriander",
+          "garam masala",
+          "red chili powder",
+          "sugar",
+          "salt"
+        ],
+        "cookingMethod": "Marinate the chicken in yogurt, ginger-garlic paste and some spices for 2 hours. Grill the chicken until cooked. In a separate pan, heat butter and fry ginger-garlic paste. Add tomato puree and spices and cook for 10-12 minutes. Add the grilled chicken and cook for 5 minutes. Add cream and cook for another 2 minutes. Serve hot with naan or rice.",
+        "rating": 4.6
+      }
+    ]
+  }
+]
