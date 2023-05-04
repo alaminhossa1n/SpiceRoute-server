@@ -81,43 +81,42 @@
     "description": "Vikas Khanna is an Indian chef, restaurateur, cookbook writer, filmmaker and humanitarian. He is one of the judges of MasterChef India, and the host of the TV show Twist of Taste on Fox Traveller. Khanna has written over 35 cookbooks and has also appeared as a judge on the Australian version of the show MasterChef. In 2011, he was awarded the prestigious Michelin Star for his restaurant Junoon in New York City.",
     "recipes": [
       {
-        "recipeName": "Lamb Rogan Josh",
+        "recipeName": "Chicken Alfredo Pasta",
         "ingredients": [
-          "lamb",
-          "yogurt",
-          "onion",
+          "pasta",
+          "chicken breast",
+          "butter",
+          "heavy cream",
           "garlic",
-          "ginger",
-          "tomato",
-          "cumin",
-          "coriander",
-          "cardamom",
-          "cinnamon",
-          "bay leaves",
-          "red chili powder",
-          "garam masala",
-          "salt"
+          "parmesan cheese",
+          "salt",
+          "black pepper",
+          "parsley"
         ],
-        "cookingMethod": "Marinate the lamb in yogurt, ginger, garlic and some spices for 2 hours. Heat oil in a pan and fry onions until golden brown. Add tomato and spices and cook until the oil separates. Add the marinated lamb and cook for 20-25 minutes. Serve hot with naan or rice.",
-        "rating": 4.5
+        "cookingMethod": "Cook pasta according to package directions. Cut chicken breast into bite-sized pieces and season with salt and black pepper. In a large skillet, melt butter over medium heat. Add minced garlic and sauté for 1-2 minutes. Add chicken and cook until browned on all sides. Pour in heavy cream and stir to combine. Reduce heat and let simmer for 5-7 minutes. Add grated parmesan cheese and stir until melted and well combined. Add cooked pasta to the skillet and toss to coat with the sauce. Top with chopped parsley and serve hot.",
+        "rating": 4.9
       },
       {
-        "recipeName": "Pani Puri",
+        "recipeName": "Chicken Tikka Masala",
         "ingredients": [
-          "semolina",
-          "flour",
-          "potato",
-          "chickpeas",
-          "tamarind",
-          "mint",
-          "coriander",
+          "boneless chicken",
+          "yogurt",
+          "lemon juice",
+          "garlic",
+          "ginger",
+          "garam masala",
           "cumin",
-          "chaat masala",
-          "red chili powder",
+          "coriander",
+          "paprika",
+          "turmeric",
+          "cayenne pepper",
+          "tomatoes",
+          "heavy cream",
+          "butter",
           "salt"
         ],
-        "cookingMethod": "Mix semolina, flour and salt in a bowl. Knead the dough and let it rest for 30 minutes. Make small balls and roll them into small puris. Fry them in hot oil until crispy. Fill the puris with mashed potato and chickpeas. Mix tamarind and mint-coriander chutney and add some spices. Add this mixture to the puris and serve immediately.",
-        "rating": 4.8
+        "cookingMethod": "Mix yogurt, lemon juice, garlic, ginger, garam masala, cumin, coriander, paprika, turmeric, cayenne pepper, and salt in a bowl. Add the chicken and marinate for at least 1 hour. Grill or bake the chicken until cooked through. In a separate pan, heat butter and cook tomatoes until they are soft. Add the cooked chicken and stir. Add heavy cream and let it simmer for a few minutes. Serve hot with rice or naan bread.",
+        "rating": 4.9
       },
       {
         "recipeName": "Butter Chicken",
@@ -150,63 +149,60 @@
     "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. Kapoor is widely known for his cooking show Khana Khazana, which is the longest-running Indian television show of its kind. He has authored more than 150 cookbooks in multiple languages, including Hindi, Marathi, and English. Kapoor has also been awarded the Padma Shri, one of India's highest civilian awards, for his contributions to the culinary arts.",
     "recipes": [
       {
-        "recipeName": "Lamb Rogan Josh",
+        "recipeName": "Thai Green Curry",
         "ingredients": [
-          "lamb",
-          "yogurt",
-          "onion",
+          "coconut milk",
+          "lemongrass",
+          "galangal",
+          "kaffir lime leaves",
+          "Thai basil",
+          "green chilies",
           "garlic",
-          "ginger",
-          "tomato",
-          "cumin",
-          "coriander",
-          "cardamom",
-          "cinnamon",
-          "bay leaves",
-          "red chili powder",
-          "garam masala",
-          "salt"
+          "onion",
+          "carrots",
+          "broccoli",
+          "zucchini",
+          "bell peppers",
+          "tofu"
         ],
-        "cookingMethod": "Marinate the lamb in yogurt, ginger, garlic and some spices for 2 hours. Heat oil in a pan and fry onions until golden brown. Add tomato and spices and cook until the oil separates. Add the marinated lamb and cook for 20-25 minutes. Serve hot with naan or rice.",
+        "cookingMethod": "Heat oil in a pan and add chopped onion and garlic. Once they turn golden brown, add chopped vegetables and cook for a few minutes. Add green curry paste, coconut milk, and some water. Bring it to a boil and let it simmer for 10-15 minutes. Add tofu and cook for another 5 minutes. Serve hot with rice.",
         "rating": 4.5
-      },
-      {
-        "recipeName": "Pani Puri",
-        "ingredients": [
-          "semolina",
-          "flour",
-          "potato",
-          "chickpeas",
-          "tamarind",
-          "mint",
-          "coriander",
-          "cumin",
-          "chaat masala",
-          "red chili powder",
-          "salt"
-        ],
-        "cookingMethod": "Mix semolina, flour and salt in a bowl. Knead the dough and let it rest for 30 minutes. Make small balls and roll them into small puris. Fry them in hot oil until crispy. Fill the puris with mashed potato and chickpeas. Mix tamarind and mint-coriander chutney and add some spices. Add this mixture to the puris and serve immediately.",
-        "rating": 4.8
-      },
-      {
-        "recipeName": "Butter Chicken",
-        "ingredients": [
-          "chicken",
-          "yogurt",
-          "ginger-garlic paste",
-          "tomato",
-          "butter",
-          "cream",
-          "cumin",
-          "coriander",
-          "garam masala",
-          "red chili powder",
-          "sugar",
-          "salt"
-        ],
-        "cookingMethod": "Marinate the chicken in yogurt, ginger-garlic paste and some spices for 2 hours. Grill the chicken until cooked. In a separate pan, heat butter and fry ginger-garlic paste. Add tomato puree and spices and cook for 10-12 minutes. Add the grilled chicken and cook for 5 minutes. Add cream and cook for another 2 minutes. Serve hot with naan or rice.",
-        "rating": 4.6
       }
+      ,
+      {
+        "recipeName": "Greek Salad",
+        "ingredients": [
+          "tomatoes",
+          "cucumbers",
+          "red onion",
+          "feta cheese",
+          "kalamata olives",
+          "oregano",
+          "lemon juice",
+          "olive oil",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Chop tomatoes, cucumbers, and red onion and add to a bowl. Add crumbled feta cheese and kalamata olives. Sprinkle some oregano, salt, and black pepper. Drizzle some olive oil and lemon juice. Toss everything together and serve chilled.",
+        "rating": 4.7
+      }
+      ,
+      {
+        "recipeName": "Chicken Alfredo Pasta",
+        "ingredients": [
+          "penne pasta",
+          "chicken breast",
+          "butter",
+          "heavy cream",
+          "garlic",
+          "parmesan cheese",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Cook pasta according to package instructions. Cut chicken breast into small pieces and cook in butter. Add minced garlic and cook until fragrant. Add heavy cream and let it simmer for a few minutes. Add grated parmesan cheese and stir until it melts. Add cooked pasta to the sauce and mix everything together. Serve hot with some freshly ground black pepper.",
+        "rating": 4.9
+      }
+      
     ]
   },
   {
