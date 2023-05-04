@@ -10,6 +10,7 @@
     "recipes": [
       {
         "recipeName": "Lamb Rogan Josh",
+        "img": "https://i.ibb.co/Vq3n4HW/lamb-rogan-josh-127388-1.jpg",
         "ingredients": [
           "lamb",
           "yogurt",
@@ -31,6 +32,7 @@
       },
       {
         "recipeName": "Pani Puri",
+        "img": "https://i.ibb.co/CsQcB7M/Pani-Puri31-1-760x400.jpg",
         "ingredients": [
           "semolina",
           "flour",
@@ -49,6 +51,7 @@
       },
       {
         "recipeName": "Butter Chicken",
+        "img": "https://i.ibb.co/gDS9m1k/opt-aboutcom-coeus-resources-content-migration-simply-recipes-uploads-2019-01-Butter-Chicken-LEAD-2.jpg",
         "ingredients": [
           "chicken",
           "yogurt",
