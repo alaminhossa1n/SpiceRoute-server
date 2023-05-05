@@ -10,7 +10,6 @@
     "recipes": [
       {
         "recipeName": "Lamb Rogan Josh",
-        "img": "https://i.ibb.co/DrdFzDy/rogan-josh-wide-1572547980.jpg",
         "ingredients": [
           "lamb",
           "yogurt",
@@ -32,7 +31,6 @@
       },
       {
         "recipeName": "Pani Puri",
-        "img": "https://i.ibb.co/br6CQQC/2022-03-10-at-4-45-10-PM.jpg",
         "ingredients": [
           "semolina",
           "flour",
@@ -51,7 +49,6 @@
       },
       {
         "recipeName": "Butter Chicken",
-        "img": "https://i.ibb.co/R0Hrdm3/butter-chicken-479366-hero-2-75d134ff86ee42bc85e34232dbb319bf.jpg",
         "ingredients": [
           "chicken",
           "yogurt",
